@@ -10,7 +10,7 @@ Sitio Web Estatico con el fin de brindar información sobre la crisis del softwa
 </a>
 
 ## Equipo de trabajo
-* Samil Arias Mosquera [(samfelip)](https://github.com/samfelip)
-* Miguel Garcia Rivera [(miguelbarca)](https://github.com/miguelbarca)
+* Samil Felipe Arias Mosquera [(samfelip)](https://github.com/samfelip)
+* Miguel Angel Garcia Rivera [(miguelbarca)](https://github.com/miguelbarca)
 * Tomas Henao Metaute [(TomasH4)](https://github.com/TomasH4)
 * Juan Sebastian Rios Valencia [(Juansecod / Juansecode)](https://github.com/Juansecod)

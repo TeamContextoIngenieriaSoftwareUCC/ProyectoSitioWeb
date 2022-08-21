@@ -1,0 +1,14 @@
+body{
+    padding-bottom: 56px;
+}
+.navbar{
+    max-width: 1440px;
+}
+section{
+    border-bottom: 4px solid rgb(107, 106, 106);
+    padding-top: 56px;
+    padding-bottom: 5px;
+}
+.container{
+    max-width: 1440px;
+}

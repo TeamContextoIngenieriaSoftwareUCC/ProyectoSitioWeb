@@ -3,12 +3,58 @@ body{
 }
 .navbar{
     max-width: 1440px;
+    border-bottom: solid 1px;
 }
 section{
-    border-bottom: 4px solid rgb(107, 106, 106);
+    border-bottom: 3px solid rgb(107, 106, 106);
     padding-top: 56px;
     padding-bottom: 5px;
 }
+h2{
+    color: rgb(104, 103, 103);
+    text-decoration: underline;
+}
 .container{
     max-width: 1440px;
+}
+.container-crisis img{
+    float: right;
+    max-width: 350px;
+    max-height: 250px;
+}
+
+/*estilo de la tabla de mitos*/
+.table {
+    margin-top: 15px;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    gap: 15px
+}    
+.item-table {
+    width: 30%;
+    border-radius: 10px;
+    border: none;
+    background: slateblue;
+    color: white;
+    font-size: 20px;
+    font-weight: 100;
+    line-height: 1;
+    will-change: transform;
+    transition: transform 450ms;
+    text-align: center;
+}
+.item-table:hover {
+    transition: transform 125ms;
+    transform: translateY(-10px);
+}
+.gestion{
+    background-color: slateblue;
+}
+.cliente{
+    background-color: #2196F3;
+}
+.desarrollador{
+    background-color: #F4511E;
 }
